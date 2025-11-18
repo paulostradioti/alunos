@@ -18,6 +18,7 @@ Documentação do C# - [Learn C# - free tutorials, courses, videos, and more | .
 
 
 
+khan academy
 
 
 # Cursos Gratuitos
