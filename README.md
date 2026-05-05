@@ -1,3 +1,32 @@
+*Conteúdo em Portugu&es*
+
+*Curso de Pensamento Computacional*
+Bom para rever as bases da lógica de programação e como aprender a pensar de forma estruturada para resolver problemas. 
+https://www.ev.org.br/cursos/pensamento-computacional
+
+*Curso de Programação Orientada à Objetos*
+https://www.ev.org.br/cursos/introducao-a-programacao-orientada-a-objetos-poo
+
+*Livro de C#*
+Esse livro é bem antigo, não cobre muitas das funcionalidades mais recentes do C#, mas é um excelente ponto de partida.
+
+*Curso de Introdução à Algoritmos da Ada*
+https://comunidade.ada.tech/cursos/5e4b6418-bbc5-4386-af61-a73990a4a745
+
+*Curso de Git da Ada*
+https://comunidade.ada.tech/cursos/37f4b5d2-dbab-4c45-ab61-aac1ba2c7d19
+
+*Conteúdo em Inglês*
+*Pack Pub* - Um livro gratuito oficial e original diferente a cada dia. Os livros só podem ser lidos na plataforma (sem download). Para obter o livro basta acessar o livro enquanto estiver logado que ele será adicionado à sua conta.
+https://www.packtpub.com/free-learning
+
+*Livros da Syncfusion*
+https://www.syncfusion.com/ebooks
+
+*C# Yellow Book*
+https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf
+
+
 # Documentação Oficial do C#
 
 | Tópico            | PT-BR | EN-US                                                        |
